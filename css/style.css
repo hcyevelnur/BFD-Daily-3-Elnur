@@ -1,0 +1,62 @@
+.birinci {
+    color: white;
+    margin: 20px;
+    padding: 50px;
+    bottom: 50px;
+    border: 2px dotted red;
+    
+
+}
+
+.ikinci {
+    color: white;
+    margin: 20px;
+    padding: 50px;
+    bottom: 50px;
+    border: 2px solid orange;
+    border-radius: 20px;
+
+
+}
+
+.ucuncu {
+    margin: 20px;
+    padding: 50px;
+    bottom: 50px; 
+    border: 6px double blue;
+    border-radius: 10px;
+}
+
+.widt {
+    width: 500px;
+}
+
+.models{
+    background-image: url("./img/moxels.jpeg");
+    background-size: cover;
+    margin: 5px;
+    padding: 100px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.modelx{
+    background-image: url("./img/modelx.jpeg");
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 600px;
+    padding: 100px;
+    width: 400px;
+    border-radius: 10px;
+}
+.modely{
+    background-image: url("./img/modely.webp");
+    background-size: cover;
+    margin-top: 30px;
+    padding: 100px;
+    width: 400px;
+    border-radius: 10px;
+}
+.yazisag{
+    margin-left: -50px;
+}
